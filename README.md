@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 I’m @Gaojian-Xiong.
+- 👋 I’m Gaojian Xiong.
 - 📫 I'm interested in AI Security & AI4Sec.
 - 👯 I’m looking to collaborate on AI security.
 - 😄 Contact me via email.
